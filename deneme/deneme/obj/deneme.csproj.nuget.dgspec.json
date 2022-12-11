@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj": {}
+    "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj": {
+    "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj",
+        "projectUniqueName": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj",
         "projectName": "deneme",
-        "projectPath": "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj",
+        "projectPath": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj",
         "packagesPath": "C:\\Users\\cerim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\obj\\",
+        "outputPath": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -24,15 +24,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "imports": [
             "net461",
             "net462",
@@ -55,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
