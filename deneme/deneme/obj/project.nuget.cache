@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8cAW6T/dwjwyndA4966pvm/+BM0CAC3X3herU8GdCak8EVaidmAxgbsKMl3SvLkRuZ+miypra80ane90iQaYA==",
+  "dgSpecHash": "gXUP7dDAf0rv9EeGtb/y3V79fAnJlOrXwbrVMczo5ck4HK65GUpvDu5cvVHMYihufjglT5BLJoTe7IqH9revbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\cerim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\cerim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\cerim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\cerim\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,17 @@
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\bin\Debug\netcoreapp3.0\deneme.exe
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\bin\Debug\netcoreapp3.0\deneme.deps.json
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\bin\Debug\netcoreapp3.0\deneme.runtimeconfig.json
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\bin\Debug\netcoreapp3.0\deneme.runtimeconfig.dev.json
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\bin\Debug\netcoreapp3.0\deneme.dll
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\bin\Debug\netcoreapp3.0\deneme.pdb
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.csproj.AssemblyReference.cache
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.Form1.resources
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.Properties.Resources.resources
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.csproj.GenerateResource.cache
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.AssemblyInfoInputs.cache
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.AssemblyInfo.cs
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.dll
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.pdb
+C:\Users\cerim\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\deneme\deneme\obj\Debug\netcoreapp3.0\deneme.genruntimeconfig.cache
