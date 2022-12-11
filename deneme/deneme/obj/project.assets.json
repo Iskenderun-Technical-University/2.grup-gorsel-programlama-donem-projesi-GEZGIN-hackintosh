@@ -8,31 +8,23 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cerim\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\hayrettin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cerim\\Documents\\code\\.vs\\c#\\deneme\\deneme\\deneme.csproj",
+      "projectUniqueName": "C:\\Users\\hayrettin\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj",
       "projectName": "deneme",
-      "projectPath": "C:\\Users\\cerim\\Documents\\code\\.vs\\c#\\deneme\\deneme\\deneme.csproj",
-      "packagesPath": "C:\\Users\\cerim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cerim\\Documents\\code\\.vs\\c#\\deneme\\deneme\\obj\\",
+      "projectPath": "C:\\Users\\hayrettin\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\deneme.csproj",
+      "packagesPath": "C:\\Users\\hayrettin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hayrettin\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\deneme\\deneme\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cerim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\hayrettin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -59,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -71,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
