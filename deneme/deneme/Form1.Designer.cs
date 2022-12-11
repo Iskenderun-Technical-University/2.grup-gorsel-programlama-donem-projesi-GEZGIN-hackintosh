@@ -89,6 +89,7 @@ namespace deneme
             // 
             // button3
             // 
+            this.button3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button3.BackgroundImage")));
             this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button3.FlatAppearance.BorderSize = 5;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
