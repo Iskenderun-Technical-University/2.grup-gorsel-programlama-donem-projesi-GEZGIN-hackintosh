@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\gezen\gezen\bin\Debug\net6.0-windows\gezen.exe
+\\Mac\Home\Desktop\gezen\gezen\bin\Debug\net6.0-windows\gezen.deps.json
+\\Mac\Home\Desktop\gezen\gezen\bin\Debug\net6.0-windows\gezen.runtimeconfig.json
+\\Mac\Home\Desktop\gezen\gezen\bin\Debug\net6.0-windows\gezen.dll
+\\Mac\Home\Desktop\gezen\gezen\bin\Debug\net6.0-windows\gezen.pdb
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.Form1.resources
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.AssemblyInfo.cs
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.dll
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\refint\gezen.dll
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.pdb
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\gezen.genruntimeconfig.cache
+\\Mac\Home\Desktop\gezen\gezen\obj\Debug\net6.0-windows\ref\gezen.dll
