@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\gezen",
+    "\\gezgiin",
+    "\\gezgiin\\gezgiin"
   ],
-  "SelectedNode": "\\gezgiin.sln",
+  "SelectedNode": "\\gezgiin\\gezgiin\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
