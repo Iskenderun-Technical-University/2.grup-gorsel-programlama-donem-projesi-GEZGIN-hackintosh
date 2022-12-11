@@ -36,7 +36,7 @@ namespace gezgiin
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(407, 189);
+            this.button1.Location = new System.Drawing.Point(125, 101);
             this.button1.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(336, 125);
@@ -46,7 +46,7 @@ namespace gezgiin
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(910, 201);
+            this.button2.Location = new System.Drawing.Point(138, 255);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(237, 112);
             this.button2.TabIndex = 1;
@@ -64,9 +64,9 @@ namespace gezgiin
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 21F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1467, 774);
+            this.ClientSize = new System.Drawing.Size(1074, 516);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
