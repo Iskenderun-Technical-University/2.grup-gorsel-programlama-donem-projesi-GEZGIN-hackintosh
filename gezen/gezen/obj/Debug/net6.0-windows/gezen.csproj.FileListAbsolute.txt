@@ -33,6 +33,7 @@ C:\Users\hayrettin\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-h
 C:\Users\hayrettin\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.pdb
 C:\Users\hayrettin\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.genruntimeconfig.cache
 C:\Users\hayrettin\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\ref\gezen.dll
+<<<<<<< HEAD
 C:\Users\nur\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.exe
 C:\Users\nur\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.deps.json
 C:\Users\nur\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.runtimeconfig.json
@@ -51,3 +52,23 @@ C:\Users\nur\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackint
 C:\Users\nur\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.pdb
 C:\Users\nur\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.genruntimeconfig.cache
 C:\Users\nur\source\repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\ref\gezen.dll
+=======
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.exe
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.deps.json
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.runtimeconfig.json
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.dll
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\bin\Debug\net6.0-windows\gezen.pdb
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.csproj.AssemblyReference.cache
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.Form1.resources
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.Properties.Resources.resources
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.csproj.GenerateResource.cache
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.AssemblyInfoInputs.cache
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.AssemblyInfo.cs
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.csproj.CoreCompileInputs.cache
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.dll
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\refint\gezen.dll
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.pdb
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\gezen.genruntimeconfig.cache
+C:\Users\cerim\Source\Repos\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\gezen\gezen\obj\Debug\net6.0-windows\ref\gezen.dll
+>>>>>>> fda9c20cae4754839f0bbdbd9d0f6fd1e95fb8f8

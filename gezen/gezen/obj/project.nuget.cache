@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\nur\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\nur\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
