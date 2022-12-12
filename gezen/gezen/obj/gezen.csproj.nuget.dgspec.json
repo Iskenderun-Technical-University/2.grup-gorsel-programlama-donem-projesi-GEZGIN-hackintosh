@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj": {}
+    "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj": {
+    "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj",
+        "projectUniqueName": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj",
         "projectName": "gezen",
-        "projectPath": "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj",
+        "projectPath": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj",
         "packagesPath": "C:\\Users\\cerim\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\obj\\",
         "projectStyle": "PackageReference",
