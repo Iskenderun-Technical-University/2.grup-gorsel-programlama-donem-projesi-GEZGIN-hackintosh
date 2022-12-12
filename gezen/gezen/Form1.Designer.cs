@@ -28,8 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
+            this.ımageList1 = new System.Windows.Forms.ImageList(this.components);
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
@@ -44,6 +46,8 @@
             // 
             this.button1.BackColor = System.Drawing.Color.Transparent;
             this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
+            this.button1.ImageIndex = 0;
+            this.button1.ImageList = this.ımageList1;
             this.button1.Location = new System.Drawing.Point(93, 249);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 53);
@@ -51,8 +55,22 @@
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = false;
             // 
+            // ımageList1
+            // 
+            this.ımageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth32Bit;
+            this.ımageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("ımageList1.ImageStream")));
+            this.ımageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.ımageList1.Images.SetKeyName(0, "Ekran Resmi 2022-12-11 17.10.45.png");
+            this.ımageList1.Images.SetKeyName(1, "baklava.png");
+            this.ımageList1.Images.SetKeyName(2, "indir.png");
+            this.ımageList1.Images.SetKeyName(3, "çingenekız2.png");
+            this.ımageList1.Images.SetKeyName(4, "ist.png");
+            this.ımageList1.Images.SetKeyName(5, "bkl.png");
+            // 
             // button2
             // 
+            this.button2.ImageIndex = 3;
+            this.button2.ImageList = this.ımageList1;
             this.button2.Location = new System.Drawing.Point(93, 332);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 55);
@@ -71,6 +89,10 @@
             // 
             // button4
             // 
+            this.button4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button4.BackgroundImage")));
+            this.button4.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button4.ImageIndex = 5;
+            this.button4.ImageList = this.ımageList1;
             this.button4.Location = new System.Drawing.Point(264, 249);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 53);
@@ -89,6 +111,8 @@
             // 
             // button6
             // 
+            this.button6.ImageIndex = 4;
+            this.button6.ImageList = this.ımageList1;
             this.button6.Location = new System.Drawing.Point(600, 249);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 53);
@@ -107,6 +131,9 @@
             // 
             // button8
             // 
+            this.button8.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button8.ImageIndex = 2;
+            this.button8.ImageList = this.ımageList1;
             this.button8.Location = new System.Drawing.Point(429, 249);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 53);
@@ -122,7 +149,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(240, 113);
             this.label1.TabIndex = 8;
-            this.label1.Text = "Gezgin";
+            this.label1.Text = "Gezen";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.UseMnemonic = false;
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -160,5 +187,6 @@
         private Button button7;
         private Button button8;
         private Label label1;
+        private ImageList ımageList1;
     }
 }
