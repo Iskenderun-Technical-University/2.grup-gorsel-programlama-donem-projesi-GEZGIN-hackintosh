@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "E3RpxQ+y+jlxi7cU6f/c3Ey+vkbkEKSKSjCiHjsztU4V8RrECccTEaACumSjjmQ6jL74f5MYj8WrvXO6b8r/sQ==",
+  "dgSpecHash": "XwhkCfbeg+iOswFTp1soHA7V8dviJrqJuiK9oT9iDD/3LLUQE62SySOOcVid5WODg7MYkzBhDcHahaJwvmPLng==",
   "success": true,
   "projectFilePath": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Önbellek dosyası C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

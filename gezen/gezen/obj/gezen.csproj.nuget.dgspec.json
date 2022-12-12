@@ -11,7 +11,7 @@
         "projectName": "gezen",
         "projectPath": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\gezen.csproj",
         "packagesPath": "C:\\Users\\cerim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cerim\\Source\\Repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\obj\\",
+        "outputPath": "C:\\Users\\cerim\\source\\repos\\2.grup-gorsel-programlama-donem-projesi-GEZGIN-hackintosh\\gezen\\gezen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
