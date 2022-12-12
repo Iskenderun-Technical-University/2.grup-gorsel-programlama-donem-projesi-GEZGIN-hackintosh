@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\cerim\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\cerim\\.nuget\\packages",
+      "C:\\Users\\nur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nur\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
