@@ -80,6 +80,8 @@
             // 
             // button3
             // 
+            this.button3.ImageIndex = 3;
+            this.button3.ImageList = this.ımageList1;
             this.button3.Location = new System.Drawing.Point(264, 332);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 55);
