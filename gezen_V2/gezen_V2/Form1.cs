@@ -89,5 +89,10 @@ namespace gezen_V2
             Form_ermenek ermenek=new Form_ermenek();
             form_cagýr(ermenek);
         }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
